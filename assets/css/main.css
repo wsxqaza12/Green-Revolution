@@ -3634,13 +3634,13 @@
 			line-height: 1.1;
 			font-family: "微軟正黑體", cursive;
 			margin-bottom: .25em;
-			color: rgba(255, 255, 255, 0.75);
+			color: rgba(255, 255, 255, 0.95);
 			text-shadow: -2px -2px 0 rgba(0, 0, 0, 0.125);
 			text-transform: none;
 		}
 
 		#banner p {
-			color: rgba(255, 255, 255, 0.85);
+			color: rgba(255, 255, 255, 0.95);
 			font-size: 2.25em;
 			font-family: "微軟正黑體", cursive;
 		}
