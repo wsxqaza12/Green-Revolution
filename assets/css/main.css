@@ -1682,6 +1682,7 @@
 
 	p {
 		margin: 0 0 2em 0;
+		font-family: "微軟正黑體", cursive;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -1823,11 +1824,13 @@
 		.box > :last-child > :last-child,
 		.box > :last-child > :last-child > :last-child {
 			margin-bottom: 0;
+			font-family: "微軟正黑體", cursive;
 		}
 
 		.box header h2 {
 			margin: 0 0 .5em 0;
 			color: #FFF;
+			font-family: "微軟正黑體", cursive;
 		}
 
 		.box header p {
